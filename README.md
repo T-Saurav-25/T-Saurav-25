@@ -3,9 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=T-Saurav-25&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
-<!-- One-Time Animated Name (Dark Red, smaller size) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=8B0000&center=true&vCenter=true&repeat=false&lines=Hey,+it's+Saurav+Thakur" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=8B0000&center=true&vCenter=true&repeat=true&lines=Hey,+it's+Saurav+Thakur" alt="Typing SVG"/>
 </h1>
 
 
