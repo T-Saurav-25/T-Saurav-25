@@ -1,4 +1,15 @@
-<h1 align="center">👋 Hi, I'm Saurav Thakur</h1>
+<!-- Visitor Counter at Top-Right -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=T-Saurav-25&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
+<!-- One-Time Animated Name (Dark Red, smaller size) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=8B0000&center=true&vCenter=true&repeat=false&lines=Hey,+it's+Saurav+Thakur" alt="Typing SVG"/>
+</h1>
+
+
+
 
 <p align="center">
 🎓 <b>BCA Final-Year Student</b> • 💻 <b>Aspiring Software Developer</b> • 🌱 <b>Python & Django</b>
@@ -20,6 +31,7 @@ Currently strengthening **Python fundamentals**, exploring **Django**, and build
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" title="C++"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50" title="Rust"/>
 </p>
 
 ### 🌐 Web Development
@@ -53,7 +65,6 @@ Currently strengthening **Python fundamentals**, exploring **Django**, and build
   <!-- Top Languages -->
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=T-Saurav-25&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
-
 
 ---
 
