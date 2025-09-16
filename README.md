@@ -10,4 +10,4 @@
 - 🔗 [Python Mini Projects](#) – Small scripts to automate tasks  
 
 📫 **Connect with me:**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)
+[LinkedIn](https://www.linkedin.com/in/saurav-thakur-099943375) | [Email](t.saurav3239@gmail.com)
