@@ -40,14 +40,20 @@ Currently strengthening **Python fundamentals**, exploring **Django**, and build
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-<!-- Total contributions and commit graph -->
-<img src="https://github-readme-stats.vercel.app/api?username=T-Saurav-25&show_icons=true&theme=radical&count_private=true" />
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <!-- Streak Stats -->
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=T-Saurav-25&theme=react&border_radius=10" alt="streak stats"/>
+  
+  <!-- Total GitHub Stats -->
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=T-Saurav-25&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  
+  <!-- Top Languages -->
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=T-Saurav-25&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+</div>
 
-<!-- Contribution Heatmap -->
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=T-Saurav-25&theme=react-dark" />
-</p>
 
 ---
 
