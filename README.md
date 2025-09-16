@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Saurav 👋
 
-<!--
-**T-Saurav-25/T-Saurav-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year BCA student | 💻 Aspiring Software Developer  
+🌱 Currently learning **Python** and soon diving into **Django**  
+🔧 Skills: C | C++ | HTML | CSS | Python (learning)  
+💡 Interested in Web Development & Software Engineering  
 
-Here are some ideas to get you started:
+📌 **Projects:**  
+- 🔗 [Portfolio Website](#) – My first personal website (HTML + CSS)  
+- 🔗 [Python Mini Projects](#) – Small scripts to automate tasks  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Connect with me:**  
+[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)
